@@ -1,1 +1,9 @@
 theme: jekyll-theme-tactile
+
+title: AYOK
+email: jorge@orpinel.com
+description: Website of Orpinel.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://orpinel.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+timezone: America/New_York
